@@ -1,5 +1,6 @@
-import 'package:meu_app_oo/meu_app_oo.dart' as meu_app_oo;
+import 'package:meu_app_oo/classes/pessoa.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${meu_app_oo.calculate()}!');
+void main(List<String> args) {
+  var p1 = Pessoa();
+  print(p1);
 }
