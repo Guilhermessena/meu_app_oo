@@ -1,2 +1,10 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Exercicios com Dart OOP
+
+## Classe e Objeto
+## Encapsulamento (get e set)
+## Sobrescrita
+## Construtor
+## Herança
+## Classes Abstratas
+## Enumerators
+## Interface
