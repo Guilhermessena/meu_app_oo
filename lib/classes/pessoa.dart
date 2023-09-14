@@ -2,6 +2,11 @@ class Pessoa {
   String _nome = '';
   String _endereco = '';
 
+  Pessoa(String nome, String endereco) {
+    _nome = nome;
+    _endereco = endereco;
+  }
+
   String getNome() {
     return _nome;
   }
